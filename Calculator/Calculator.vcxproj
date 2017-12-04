@@ -147,6 +147,7 @@
   <ItemGroup>
     <ClInclude Include="Addition.h" />
     <ClInclude Include="stdafx.h" />
+    <ClInclude Include="Subtraction.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>

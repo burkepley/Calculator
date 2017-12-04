@@ -27,6 +27,9 @@
     <ClInclude Include="Addition.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Subtraction.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
